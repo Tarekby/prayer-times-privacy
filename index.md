@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Prayer Times — Privacy Policy
+title: Adhanly — Privacy Policy
 ---
 
-# Prayer Times — Politique de confidentialité / Privacy Policy
+# Adhanly — Politique de confidentialité / Privacy Policy
 
 *Dernière mise à jour / Last updated : 19 octobre 2026*
 
@@ -13,7 +13,7 @@ title: Prayer Times — Privacy Policy
 
 ## Français
 
-Prayer Times (« l'application », identifiant `com.islam.prayernotifier`) calcule les horaires de prière **sur votre appareil**. Elle ne demande aucun compte, ne contient **aucune publicité**, **aucun outil de statistiques ou de suivi**, et ne vend ni ne partage aucune donnée à des fins commerciales.
+Adhanly (« l'application », identifiant `com.islam.prayernotifier`) calcule les horaires de prière **sur votre appareil**. Elle ne demande aucun compte, ne contient **aucune publicité**, **aucun outil de statistiques ou de suivi**, et ne vend ni ne partage aucune donnée à des fins commerciales.
 
 ### Données utilisées et pourquoi
 
@@ -63,7 +63,7 @@ Pour toute question : **prayernotify.app@gmail.com**
 
 ## English
 
-Prayer Times ("the app", package `com.islam.prayernotifier`) calculates prayer times **on your device**. It requires no account, contains **no ads**, **no analytics or tracking tools**, and does not sell or share any data for commercial purposes.
+Adhanly ("the app", package `com.islam.prayernotifier`) calculates prayer times **on your device**. It requires no account, contains **no ads**, **no analytics or tracking tools**, and does not sell or share any data for commercial purposes.
 
 ### Data used and why
 
